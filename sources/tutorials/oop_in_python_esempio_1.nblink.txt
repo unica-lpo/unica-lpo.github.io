@@ -1,0 +1,3 @@
+{
+    "path": "../../notebooks/oop_in_python_esempio_1.ipynb"
+}
