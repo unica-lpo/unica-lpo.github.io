@@ -18,3 +18,5 @@
 7. [La programmazione ad oggetti con il linguaggio Python (parte 2): le relazioni di composizione, aggregazione, ereditarietà in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_2.pdf)
 8. [La programmazione ad oggetti con il linguaggio Python (parte 3): attributi di classe, metodi di classe, metodi statici](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_3.pdf)
 9. [La programmazione ad oggetti con il linguaggio Python (parte 4): spiegazione dettagliata del processo di creazione degli oggetti in Python, il metodo __new__, la classe object](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_4.pdf)
+10. [La programmazione ad oggetti con il linguaggio Python (parte 5): i metodi setter e getter](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_5.pdf)
+
