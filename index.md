@@ -23,8 +23,8 @@
 
 **Parte II**
 
-12. [La programmazione ad oggetti con il linguaggio Python (parte 6): le classi astratte](https://github.com/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_6.pptx.pdf)
-13. [La programmazione ad oggetti con il linguaggio Python (parte 7): l'ereditarietà multipla e le classi mixin](https://github.com/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_7.pptx.pdf)
+12. [La programmazione ad oggetti con il linguaggio Python (parte 6): le classi astratte](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_6.pptx.pdf)
+13. [La programmazione ad oggetti con il linguaggio Python (parte 7): l'ereditarietà multipla e le classi mixin](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_7.pptx.pdf)
 14. [La programmazione ad oggetti con il linguaggio Python (parte 8): estendere classi built-in](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_8.pptx.pdf)
 15. [La programmazione ad oggetti con il linguaggio Python (parte 9): gestione delle eccezioni](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_9.pptx.pdf)
 16. [La programmazione ad oggetti con il linguaggio Python (parte 10): oggetti iteratori e oggetti iterabili](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_10.pptx.pdf)
