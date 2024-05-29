@@ -1,6 +1,6 @@
 # Linguaggi di programmazione orientati agli oggetti
 
-**Anno accademico 2022-2023** 
+**Anno accademico 2023-2024** 
 
 **Docente:** Dott.ssa Ambra Demontis
 
