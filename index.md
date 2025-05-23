@@ -24,3 +24,10 @@
 14. [La programmazione ad oggetti con il linguaggio Python (parte 8): estendere classi built-in](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_8.pdf)
 15. [La programmazione ad oggetti con il linguaggio Python (parte 9): gestione delle eccezioni](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_9.pdf)
 16. [La programmazione ad oggetti con il linguaggio Python (parte 10): oggetti iteratori e oggetti iterabili](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_10.pdf)
+17. [La programmazione ad oggetti con il linguaggio Python (parte 11): gli oggetti di tipo stringa e le espressioni regolari](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_11.pdf)
+18. [La programmazione ad oggetti con il linguaggio Python (parte 12): gli oggetti di tipo file](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_12.pdf)
+21. [La programmazione ad oggetti con il linguaggio Python (parte 13): gli oggetti di tipo funzione](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_13.pdf)
+19. [La programmazione ad oggetti con il linguaggio Python (parte 14): la serializzazione degli oggetti](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_14.pdf)
+
+
+
