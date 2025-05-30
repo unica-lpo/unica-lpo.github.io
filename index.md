@@ -28,6 +28,9 @@
 18. [La programmazione ad oggetti con il linguaggio Python (parte 12): gli oggetti di tipo file](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_12.pdf)
 21. [La programmazione ad oggetti con il linguaggio Python (parte 13): gli oggetti di tipo funzione](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_13.pdf)
 19. [La programmazione ad oggetti con il linguaggio Python (parte 14): la serializzazione degli oggetti](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_14.pdf)
-
+21. [La programmazione ad oggetti con il linguaggio Python (parte 15): gli oggetti di tipo funzione](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_15.pdf)
+22. [Note sullo zucchero sintattico in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/zucchero_sintattico.pptx.pdf)
+23. [La programmazione ad oggetti con il linguaggio Python (parte 16): prototipare programmi di media complessità da implementare in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_16.pdf)
+24. [La programmazione ad oggetti con il linguaggio Python (parte 17): prototipare programmi di media complessità da implementare in Python-esercitazione](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_17.pdf)
 
 
