@@ -32,5 +32,6 @@
 22. [Note sullo zucchero sintattico in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/zucchero_sintattico.pdf)
 23. [La programmazione ad oggetti con il linguaggio Python (parte 16): prototipare programmi di media complessità da implementare in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_16.pdf)
 24. [La programmazione ad oggetti con il linguaggio Python (parte 17): prototipare programmi di media complessità da implementare in Python - esercitazione](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_17.pdf)
-
+25. [L'integrazione dei database (parte 1): MySQL](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_4_utilizzo_db_1.pdf)
+26. [L'integrazione dei database (parte 2): Utilizzare MySQL tramite Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_4_utilizzo_db_2.pdf)
 
