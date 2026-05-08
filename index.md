@@ -24,3 +24,4 @@
 14. [La programmazione ad oggetti con il linguaggio Python (parte 8): l'ereditarietà multipla e le classi mixin](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_8_ereditarieta_multipla.pdf)
 15. [La programmazione ad oggetti con il linguaggio Python (parte 9): estendere classi built-in](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_9_estensione_builtin.pdf)
 16. [La programmazione ad oggetti con il linguaggio Python (parte 10): gestione delle eccezioni](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_10_eccezioni.pdf)
+17. [La programmazione ad oggetti con il linguaggio Python (parte 11): oggetti iteratori e oggetti iterabili](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_11_iteratori_e_iterabili.pdf)
