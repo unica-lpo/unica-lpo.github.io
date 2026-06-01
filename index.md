@@ -30,3 +30,7 @@
 20. [La programmazione ad oggetti con il linguaggio Python (parte 14): la serializzazione degli oggetti](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_14_serializzazione_oggetti.pdf)
 21. [La programmazione ad oggetti con il linguaggio Python (parte 15): la libreria matplotlib](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_15_grafici.pdf)
 23. [La programmazione ad oggetti con il linguaggio Python (parte 16): prototipare programmi di media complessità da implementare in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_3_gli_oggetti_in_python_parte_16_progettazione.pdf)
+24. [L'integrazione dei database (parte 1): MySQL](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_4_utilizzo_db_1.pdf)
+25. [L'integrazione dei database (parte 2): Utilizzare MySQL tramite Python con PySide](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/LPO_4_utilizzo_db_2.pdf)
+26. [QT Interface Framework: La creazione di interfacce grafiche](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/zucchero_sintattico.pdf)
+27. [Note sullo zucchero sintattico in Python](https://github.com/unica-lpo/unica-lpo.github.io/raw/main/slides/zucchero_sintattico.pdf)
